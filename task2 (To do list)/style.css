@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(156, 194, 194);
+    font-family: 'Poppins', sans-serif;
+ }
+ h1{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #312f31;
+ }
+ .container{
+
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 100px;
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(6, 145, 145);
+    outline: none;
+    font-size: 19px;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color:rgb(130, 185, 185);
+    color: rgb(3, 3, 3);
+    border: none;
+    cursor: pointer;
+
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(163, 209, 209);
+    color: rgb(7, 7, 7);
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
